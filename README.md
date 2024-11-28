@@ -1,4 +1,4 @@
-# Daniels - One Page Portfolio Template
+# Daniels
 
 Daniels is a **Creative & Modern Parallax Portfolio One Page Template** designed for **business startups**, **web studios**, and **creative agencies**. It features a clean, minimalistic design, and is highly customizable for anyone looking to showcase their work or services.
 
