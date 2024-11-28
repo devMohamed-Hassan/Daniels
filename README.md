@@ -13,7 +13,8 @@ View the live demo of this template here:
 - **4 Home Page Variations**: Different layouts to suit your needs.
 - **Responsive Design**: Fully responsive, based on the latest version of **Bootstrap**.
 - **Technologies Used**:
-  - **HTML5**, **CSS3**, **JavaScript** (with jQuery)
+  - **HTML5**, **CSS3**
+, **JavaScript** (with jQuery)
   - **Sass** for styling.
   - **Parallax Effects** for modern scrolling experience.
 - **100% Responsive**: The layout is mobile-friendly and adapts to all screen sizes.
