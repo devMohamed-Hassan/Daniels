@@ -36,10 +36,12 @@ function counter() {
 
 document.addEventListener("DOMContentLoaded", counter);
 
-<!-- hero -->
-
-var typed = new Typed("#element", {
-    strings: ["LARRY Daniels", "Developer", "Designer"],
-    typeSpeed: 50,
-    loop: true,
+document.addEventListener("DOMContentLoaded", function() {
+    var typed = new Typed("#element", {
+        strings: ["LARRY Daniels", "Developer", "Designer"],
+        typeSpeed: 50,
+        loop: true,
+    });
 });
+
+
