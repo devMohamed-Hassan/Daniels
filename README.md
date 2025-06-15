@@ -5,5 +5,5 @@ Daniels is a **Creative & Modern Parallax Portfolio One Page Template** designed
 This template is fully **responsive** and is built using **Bootstrap**. It includes a **working contact form**, **parallax effects**, and is optimized for both **SEO** and **performance**.
 
 ## Live Demo
-[Daniels Portfolio Template](https://devMohamed-Hassan.github.io/Daniels/)
+[Daniels Portfolio Template](https://devmohamed-hassan.github.io/Daniels-Template/)
 
